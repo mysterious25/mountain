@@ -1,0 +1,55 @@
+
+@font-face {
+            
+font-family: Bringin; /* имя шрифта для CSS правил */
+src: local("Bringin"), /* проверяем наличие шрифта в ОС пользователя */
+url(fonts/Bringin.ttf); /* если шрифт не установлен, тогда загружаем его по указанному пути */
+
+    }
+
+.nav { 
+    
+	  padding: 10px;
+    color: #9fafb7;
+    font-weight: 600;
+    text-decoration: none;
+         
+}
+
+.ghost-button {margin-left: 500px;
+               margin-top: 20%;
+               border: 2px solid #37ade8;
+               color: #37ade8;
+               text-decoration: none;
+               padding: 5px 30px 5px 30px;
+               
+              
+}
+
+
+body {
+background: url(https://pp.userapi.com/c637131/v637131208/3f270/IqqiJRCGbgQ.jpg) no-repeat;
+background-size: cover;
+      
+      margin-left: 280px;
+      
+      }
+
+li {
+  display: inline-block;
+  }
+.call {margin-top: -3%;}
+
+.travel {color: white;
+         font-size: 35pt;
+         margin-left: -180px;
+         margin-top: 80px;
+         }
+.tothe {color: #37ade8;
+        font-size: 35pt;
+        margin-left: -180px;
+        margin-top: -35px;
+        font-family:'Bringin';
+        }
+
+

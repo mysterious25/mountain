@@ -1,0 +1,43 @@
+<html>
+<head>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  
+  <nav clas="main-nav">
+    <ul>
+      <li>
+    <a class="nav" href="#">
+  Our story
+      </a>
+      </li>
+        <li>
+          <a class="nav" href="#">
+  Services
+            </a>
+      </li>
+  <li>
+ <a class="nav" href="#">
+  work
+ </a>
+ </li>
+        <li>
+          <a class="nav" href="#">
+  journal
+            </a>
+      </li>
+      <ul>
+       <div class="call"> <a class="ghost-button" href="#">Call us</a>
+        </div>
+  </nav>
+      <div class="travel"> 
+        Travel with us
+      </div>
+      <div class="tothe">to the mountains
+        <div>
+  </header>
+</div>
+</body>
+</html>
